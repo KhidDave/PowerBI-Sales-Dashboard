@@ -16,6 +16,21 @@ This project is an interactive sales dashboard built using Microsoft Power BI. I
 - Charts and graphs
 - Filters and slicers
 
+## Future Improvements
+
+- Add more interactive report pages.
+- Connect to a live database.
+- Automate data refresh.
+- Publish the dashboard to the Power BI Service.
+
+## Repository Structure
+
+├── dashboard.pbix
+├── README.md
+├── screenshots/
+│   ├── cafe_dashboard.png
+│   └── data_cleaning.png
+
 ## Project Workflow
 1. Collected the dataset.
 2. CLeaned and prepared the data using Jupyter Notebook.
