@@ -22,6 +22,10 @@ This project is an interactive sales dashboard built using Microsoft Power BI. I
 3. Imported the cleaned data into Power BI.
 4. Built an interactive dashboard to visualize key busimess metrics.
 
+## Dashboard Preview
+! [Cafe_Dashboad] (screenshots/cafe_dashboard.png)
+! [Data Cleaning] (screenshots/data_cleaning.png)
+
 ## Author
 David Umunnakwe
 Github: https://github.com/KhidDave
